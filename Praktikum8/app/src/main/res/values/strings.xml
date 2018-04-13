@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Praktikum8</string>
+    <string-array name="armada_array">
+        <item>Ekonomi Patas</item>
+        <item>Ekseskutif</item>
+        <item>Super Eksekutif</item>
+        <item>VIP</item>
+        <item>VVIP</item>
+    </string-array>
+</resources>
